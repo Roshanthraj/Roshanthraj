@@ -12,7 +12,7 @@ Most of my learning happens somewhere between “let’s build this” and “ok
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [roshanthraja@gmail.com](mailto:roshanthraja@gmail.com)
-* 🧠  I'm currently learning how to build AI applications
+* 🧠  I'm currently working on building AI-powered applications and exploring AI agents
 * 👥  I'm looking to collaborate on projects that challenge me, teach me something new.
 * 🧠  Bring the problem. I’ll bring the curiosity
 
