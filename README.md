@@ -8,7 +8,6 @@ I’m a Full-Stack Developer and a published ML/DL researcher building AI system
 
 I work with Python, FastAPI, PostgreSQL, AWS, React/Next.js, and I’m currently understanding how AI systems work.
 
-Most of my learning happens somewhere between “let’s build this” and “okay, why is this broken?"
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [roshanthraja@gmail.com](mailto:roshanthraja@gmail.com)
