@@ -6,7 +6,7 @@ B.Tech CSE Graduate from VITC | AI Enthusiast | Published Researcher in Frontier
 
 I’m a MERN Full-Stack Developer and a published ML/DL researcher building AI systems and when I’m not doing that, you’ll probably find me somewhere between object detection, image processing, and another questionable computer vision idea.
 
-I work with Python, FastAPI, PostgreSQL, AWS, React/Next.js, and I’m currently understanding how AI systems work before they understand me.
+I work with Python, FastAPI, PostgreSQL, AWS, React/Next.js, and I’m currently understanding how AI systems work.
 
 Most of my learning happens somewhere between “let’s build this” and “okay, why is this broken?"
 
