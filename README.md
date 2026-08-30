@@ -4,7 +4,7 @@ Hi !! My name is Roshanthraj N
 B.Tech CSE Graduate from VITC | AI Enthusiast | Published Researcher in Frontiers AI
 ------------------------------------------------------------------------------------
 
-I’m a MERN Full-Stack Developer and a published ML/DL researcher building AI systems and when I’m not doing that, you’ll probably find me somewhere between object detection, pose estimation, and another questionable computer vision idea.
+I’m a MERN Full-Stack Developer and a published ML/DL researcher building AI systems and when I’m not doing that, you’ll probably find me somewhere between object detection, image processing, and another questionable computer vision idea.
 
 I work with Python, FastAPI, PostgreSQL, AWS, React/Next.js, and I’m currently understanding how AI systems work before they understand me.
 
